@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "dom-parser": "^0.1.6",
+    "express": "^4.18.2",
+    "flatted": "^3.2.7",
+    "luxon": "^3.3.0",
+    "node-html-parser": "^6.1.5",
+    "update": "^0.7.4",
+    "xml-js": "^1.6.11"
+  }
+}
